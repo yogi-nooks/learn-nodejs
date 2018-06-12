@@ -14,9 +14,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yogi-nooks/learn-nodejs/issues"
-  },
-  "homepage": "https://github.com/yogi-nooks/learn-nodejs#readme",
-  "dependencies": {
-    "express": "^4.16.3"
   }
 }
